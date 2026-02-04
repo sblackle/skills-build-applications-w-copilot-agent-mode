@@ -1,0 +1,41 @@
+.App {
+  background-color: #f8f9fa;
+  color: #212529;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #007bff !important;
+}
+
+.table {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #e9ecef;
+  color: #495057;
+}
+
+.btn {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+h2 {
+  color: #007bff;
+}
+
+a {
+  color: #007bff;
+}
+
+a:hover {
+  color: #0056b3;
+}
